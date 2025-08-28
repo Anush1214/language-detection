@@ -65,3 +65,6 @@ pip install pandas numpy scikit-learn nltk
 
 ## 🤝 Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
+
+## Colab link 
+https://colab.research.google.com/drive/1Sye8kel2yPMSvCzCz6xKFW0JD8IJ8JT2
